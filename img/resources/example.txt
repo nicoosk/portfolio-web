@@ -1,0 +1,5 @@
+Este es un archivo guía para la carpeta resources del proyecto portfolio-web. Leer el README.md para saber qué poner en cada carpeta y así mantener el orden en los archivos y directorios del proyecto.
+
+La finalidad de estos archivos de ejemplo es para que figuren de manera correcta en el repo de Github. Este archivo puede ser eliminado con seguridad y no debería afectar a la funcionalidad del proyecto.
+
+- - - - - - - - - - - - - - - nicoosk/portfolio-web - - - - - - - - - - - - - - - 
