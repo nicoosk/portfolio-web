@@ -1,4 +1,4 @@
-window.sr = ScrollReveal();
+window.rs = ScrollReveal();
 
     sr.reveal('.titulo', {
         duration: 3000,

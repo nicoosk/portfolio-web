@@ -25,7 +25,7 @@
 }
 
 body {
-    background-color: #ffffff;
+    background-color: #e9e6e6;
     overflow-x: hidden;
 
 }
@@ -94,7 +94,7 @@ body {
     padding-top: 5px;
 }
 
-.description a { 
+.description h4 { 
     text-transform: uppercase;
     color: white;
 }
@@ -185,24 +185,24 @@ color: white;
 }
 #div1 {
 	grid-area: 1 / 1 / 7 / 2;
-	background-color: rgb(255, 255, 255);
+	background-color: #e9e6e6;
     background-size: cover;
     height: 100vh;
 }
 #div2 {
 	grid-area: 1 / 10 / 7 / 11;
-	background-color: rgb(255, 255, 255);
+	background-color: #e9e6e6;
     background-size: cover;
 }
 #div3 {
 	grid-area: 1 / 2 / 6 / 10;
 	background-color: rgb(0, 0, 0);
     background-size: cover;
-
-}
-#div4 {
-	grid-area: 6 / 2 / 8 / 10;
-	background-color: rgb(255, 255, 255);
+    
+    }
+    #div4 {
+    grid-area: 6 / 2 / 8 / 10;
+	background-color: #e9e6e6;
 
 }
 
@@ -247,4 +247,9 @@ text-align: center;
     width: 125px;
     height: 135px;
 
+}
+
+.row:hover {
+    transition: 0.3s;
+    background-color: rgba(0, 0, 0, 0.434);
 }
