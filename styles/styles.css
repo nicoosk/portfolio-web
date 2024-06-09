@@ -163,6 +163,37 @@ iframe {
 
 /* pages */
 
+.logo-vert {
+    top: 14px;
+    width: 10%;
+    height: 100px;
+    display: inline-block;
+    background-image: url('../img/logo/logo1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    text-align: left;
+}
+
+.element-container {
+    padding-top: 150px;
+    padding-left: 20px;
+    list-style: none;
+    /* Contenedor principal */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Elementos flexibles */
+.element-container li {
+    flex: 1 1 200px; /* Crece y se contrae, con un tamaño base de 200px */
+    margin: 10px;
+    padding: 20px;
+    /* text-align: center; */
+  }
+
 .titulo{
 
 font-family: 'Times New Roman', Times, serif;
