@@ -41,4 +41,16 @@ window.sr = ScrollReveal();
         origin:'bottom',
         distance:'100px'
     });
+
+    sr.reveal('.sobre-mi-desc', {
+        duration: 4000,
+        origin:'bottom',
+        distance:'100px'
+    });
+
+    sr.reveal('.animated', {
+        duration: 4000,
+        origin:'bottom',
+        distance:'100px'
+    });
     

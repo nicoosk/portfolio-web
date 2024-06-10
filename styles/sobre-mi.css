@@ -1,0 +1,13 @@
+.sobre-mi, .titulos {
+    text-align: center;
+}
+
+.sobre-mi .trayectoria {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+}
+
+.sobre-mi .sobre-mi-desc {
+    padding-bottom: 5%;
+}
